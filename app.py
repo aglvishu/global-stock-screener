@@ -128,14 +128,16 @@ if st.sidebar.button("🔄 Reload Raw Data / Clear Cache"):
 # ----------------- CORE LOGIC DEFINITIONS -----------------
 @st.cache_data
 def load_all_fundamentals():
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    
     # Load India
-    ind_path = 'data/nifty_200_screener_mock.csv'
-    if os.path.exists('data/nifty_200_screener.csv'):
-        ind_path = 'data/nifty_200_screener.csv'
+    ind_path = os.path.join(BASE_DIR, 'data', 'nifty_200_screener_mock.csv')
+    if os.path.exists(os.path.join(BASE_DIR, 'data', 'nifty_200_screener.csv')):
+        ind_path = os.path.join(BASE_DIR, 'data', 'nifty_200_screener.csv')
     df_ind = load_indian_fundamentals(ind_path)
     
     # Load US
-    us_path = 'data/us_fundamentals_cache.csv'
+    us_path = os.path.join(BASE_DIR, 'data', 'us_fundamentals_cache.csv')
     df_us = load_us_fundamentals(us_path)
     
     if df_ind.empty and df_us.empty:
