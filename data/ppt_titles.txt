@@ -1,0 +1,501 @@
+PGDF (24-26)Fundamental Analysis (FAL)
+For Discussion in this Course
+For Discussion in this Session
+What is Fundamental Analysis (FAL)???
+What are the Fundamentals that determine the value of a firm???
+We need to look at below in FS and assess
+1. Profitability
+Dupont Framework – ROE  ( with 4 components)
+Dupont Framework – ROE ( with 7 components)
+Modified P&L Stat. from the data given in Annual Report
+Dupont Framework ( ROE)
+FALPGDF (24-26)
+GP Before D&A Margin of HUL-Last Five Fys
+SGA Advantage of HUL- Last Five Fys
+D&A Advantage of HUL - Last Five Fys
+Interest Advantage of  HUL- Last Five Fys
+Tax Advantage of HUL- Last Five Fys ( not considering other income )
+Asset Turn of HUL- Last Five Fys
+Equity Multiplier of HUL - Last Five Fys
+Dupont ROE of HUL - Last Five Fys
+Dupont Framework – ROC ( with 3 components)
+Modified Dupont Framework – ROC ( with five components)
+Tax Retention Rate of HUL- Last Five Fys
+IC Turn of HUL- Last Five Fys
+Dupont ROC – HUL – Last 5 Fys
+Common Size Income Statement Analysis
+Common Size IS –HUL– Last 5 Fys
+2. Working Capital Efficiency
+Days Receivables – HUL –Last 5 Fys
+Days Inventories –HUL–Last 5 Fys
+Days Payables – HUL  –Last 5 Fys
+Cash Conversion Cycle  – HUL –Last 5 Fys
+WC Turn – HUL – Last 5 Fys
+3. Liquidity
+Current Ratio- HUL- Last 5 Fys
+Quick Ratio- HUL- Last 5 Fys
+Defensive Interval or Cash Burn- HUL- Last 5 Fys
+4. Solvency
+D/E (= LT Debt/OE )- HUL- Last 5 Fys
+D/E (= Total Debt/OE )- HUL- Last 5 Fys
+Interest Cover - HUL- Last 5 Fys
+Z score –WC/TA – HUL – Last 5 Fys
+Z score –RE/TA – HUL – Last 5 Fys
+Z score –EBIT/TA – HUL – Last 5 Fys
+Z score –MV of Equity / BV of Debt – HUL – Last 5 Fys
+Z score –MV of Eq /BV of Debt – HUL – Last 5 Fys
+Z score –Sales/TA – HUL – Last 5 Fys
+Inference based on Z score
+Altman’s Z score – HUL – Last 5 Fys
+5. Cash Flow Management
+CFO to CAPEX
+CFO to Capex –HUL- Last 5 Fys
+CFO to Total Debt – HUL – Last 5 Fys
+CFO to Net Income – HUL – Last 5 Fys
+CFO to Current Liabilities – HUL – Last 5 Fys
+6. Degree of Leverage
+6 (a) Degree of Operating Leverage-HUL
+6 (b) Degree of Financial Leverage- HUL
+6 (C) Degree of Combined Leverage- HUL
+FSA
+Let Us Consider HUL & Its Peersfor the year 2025
+Steps
+Assignment of weights to Parameters and Sub-Parameters
+Profitability ( ROE)
+Comparison on Profitability – FY ending March 2025
+GPBDAM – FY 2025
+SGA Advantage – FY 2025
+D&A Advantage – FY 2025
+Int Advantage – FY 2025
+Tax Advantage – FY 2025
+Asset Turn – FY 2025
+Equity Multiplier – FY 2025
+HUL’s Profitability Score
+Godrej’s Profitability Score
+Marico’s Profitability Score
+Dabur’s Profitability Score
+Vishal’s Profitability Score
+Overall Score & Rank on Profitability
+WC Efficiency – Sub Parameters Considered
+Days Receivables (DR) – FY 2025( Lower The Better)
+Days Inventories (DI) – FY 2025( Lower The Better)
+Days Payables (DP) – FY 2025( Higher the Better)
+HUL’s WCE score
+Godrej’s WCE score-
+Marico’s WCE score-
+Dabur’s WCE score-
+Vishal’s WCE score-
+Overall Score & Rank on WC Efficiency
+Liquidity- Sub Parameters Considered
+Quick Ratio  – FY 2025(Higher the Better)
+Defensive Interval – FY 2025(Higher the Better)
+HUL’s Liquidity score-
+Godrej’s Liquidity score
+Marico’s Liquidity score
+Dabur’s Liquidity score
+Vishal’s Liquidity score-
+Overall Score & Rank on Liquidity
+Solvency- Sub Parameters Considered
+Total Debt to Equity (DE) – FY 2025(Lower the Better)
+Interest Coverage Ratio (ICR) – FY 2025(Higher the Better)
+WC/TA – FY 2025
+RE/TA – FY 2025
+EBIT/TA – FY 2025
+Z score –MV of Equity / BV of Debt –  PE ratio Last 5 Fys
+MV of Eq/BV of Total Debt – FY 2025
+Sales/TA – FY 2025
+HUL’s Solvency score
+Godrej’s Solvency score-
+Marico’s Solvency score-
+Dabur’s Solvency score
+Vishal’s Solvency score
+Overall Score & Rank on Solvency
+Cash Flow Mgmt- Sub Parameters Considered
+CFO to Capex – FY 2025
+CFO/CL – FY 2025
+CFO/Total Debt – FY 2025
+CFO/PAT – FY 2025
+HUL’s CF Mgmt score
+Godrej’s CF Mgmt score
+Marico ’s CF Mgmt score
+Dabur’s CF Mgmt score
+Vishal’s CF Mgmt score
+Overall Score & Rank on CF Mgmt
+Leverage – Sub Parameters Considered
+DOL – FY 2025
+DFL – FY 2025
+HUL’s Leverage score
+Godrej’s Leverage score
+Marico’s Leverage score
+Dabur’s Leverage score
+Vishal’s Leverage score-
+Overall Score & Rank on Leverage
+Overall Financial Score Analysis
+Overall Score & Rank
+Piotroski’s F score
+1. Profitability ( 4 sub –parameters)
+F Score -Profitability For HUL in 2025
+2. Leverage, Liquidity & Source of Funding( 3 sub-parameters)
+F Score –Liquidity, Leverage & source of funding For HUL in 2025
+3. Operating  Efficiency ( 2 Sub –Parameters)
+F Score –Operating Efficiency For HUL in 2025
+Inference Guidelines on F Score
+HUL’s F Score in 2025
+What is the Profitability Score for HUL in 2024?
+F Score -Profitability For HUL in 2024
+What is the Leverage, Liquidity & Source of FundingScore for HUL in 2024?
+F Score –Liquidity, Leverage & source of funding For HUL in 2024
+What is the Score of HUL on Operating  Efficiency in 2024?
+F Score –Operating Efficiency For HUL in 2024
+HUL’s F Score in 2025 &2024
+F Score -Profitability For HUL in 2023
+F Score –Liquidity, Leverage & source of funding For HUL in 2023
+F Score –Operating Efficiency For HUL in 2023
+HUL’s F Score in 2023
+F Score -Profitability For HUL in 2022
+F Score –Liquidity, Leverage & source of funding For HUL in 2022
+F Score –Operating Efficiency For HUL in 2022
+HUL ’s F Score in 2022
+F Score -Profitability For HUL in 2021
+F Score –Liquidity, Leverage & source of funding For HUL in 2021
+F Score –Operating Efficiency For HUL in 2021
+HUL’s F Score in 2021
+HUL’s F score in the last 5 Fys
+Let us Compute F score for all the Peers of HUL 2025?
+F Score -Profitability For Godrej in 2025
+F Score –Liquidity, Leverage & source of funding For Godrej in 2025
+F Score –Operating Efficiency of Godrej in 2025
+Godrej’s F Score in 2025
+F score for all the Peers of HUL for 2025?
+F Score -Profitability For Marico in 2025
+F Score –Liquidity, Leverage & source of funding For Marico in 2025
+F Score –Operating Efficiency of Marico in 2025
+Marico’s F Score in 2023
+F Score -Profitability For Dabur in 2025
+F Score –Liquidity, Leverage & source of funding For Dabur in 2025
+F Score –Operating Efficiency of Dabur in 2025
+Dabur ’s F Score in 2025
+F Score -Profitability For Vishal in 2025
+F Score –Liquidity, Leverage & source of funding For Vishal in 2025
+F Score –Operating Efficiency of Vishal in 2025
+Vishal’s F Score in 2023
+HUL vs others on F score - 2025
+For Discussion
+M Score
+1.DSRI ( Days Receivable Index)
+2. Gross Margin Index (GMI)
+3. Asset Quality Index (AQI)
+What is the AQI for Marico in 2025 ?
+4. Sales Growth Index ( SGI)
+5. Depreciation Index ( DEPI)
+6. SGA expense Index (  SGAI)
+7. Leverage Index ( LVGI)
+8. Total Accruals to Total Assets (TATA)
+Figures for Marico & Inferences
+M score for Marico in 2025
+Conclusion
+Benford’s Law ( or Law of Anomalous Numbers or The First Digit Law )
+How to do the Analysis?
+Benford’s Law- Marico : Non- Manipulative( 2025,2024 & 2023)
+PGDF 24-26FAL
+For Discussion in S 7
+Summary
+Price Based multiples
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If DPR increase by 10% ,then  P/E = ???
+Impact of Change in Growth rate on PE ratio
+Let us Assume: DPR @40%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If  ROE increase by 10%(from 12% to 13.2 % ),then  P/E = ???
+Let us Assume: DPR @40%; ROE at 13.2%; Rf @6%; Beta of 1.2 & MRP @ 8 %;,then  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If ROE&DPR increase by 10% ,then  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If  g increase by 10% ,then  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If g increase by 10% ,then  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If  COE decrease by 10% ,then  P/E = ???
+Let us Assume: DPR @40%; ROE at 12%; Rf @6%; Beta of 1.2 & MRP @ 8 %; If COE increase by 10% ,then  P/E = ???
+Sensitivity Analysis
+PE & Fundamentals
+PE ratio using Fundamentals for Colgate Palmolive India Ltd (CPIL )
+Colgate Palmolive India Ltd( Standalone Ratios)
+DPR of Colgate Palmolive India for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then per share ratios )
+ROE of Colgate Palmolive India  for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then Return ratios )
+Fundamental growth rate of CPIL
+COE for CPIL
+Equity Beta for CPIL
+Cost of Equity for CPIL ( 27 November 2025)
+PE of CPIL =?
+PE ratio using Fundamentals for CPIL
+If we revise the assumptions , then PE of CPIL=?
+If we assume stable phase g of 6 % & DPR of 90% for CPIL
+PE for a High Growth Firm
+DPR of NALCO for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then per share ratios )
+ROE of NALCO for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then Return ratios )
+Fundamental growth rate for NALCO based on 5-year average ROE & DPR
+COE for NALCO
+Equity Beta for Nalco
+Cost of Equity for NALCO
+PE ratio for NALCO- High Growth (HG) Phase
+PE of Nalco – HG Phase
+PE of Nalco- Stable Phase(st)
+PE of Nalco- Stable Phase
+PE ratio using Fundamentals for NALCO ( based on 5 year avg data)
+Revised PE ratio using Fundamentals for NALCO ( Revised DPR of 60% & g st phase at 4 % & st COE at 13.2 % in stable phase )
+Revised PE of Nalco- Stable Phase
+Revised PE ratio using Fundamentals for NALCO (Revised DPR of 60% & g st phase at 4 % & st COE at 13.2 % in stable phase )
+For Discussion in Session 9
+F Score -Profitability For UTCL in 2024
+F Score –Liquidity, Leverage & source of funding For UTCL in 2024
+F Score –Operating Efficiency of UTCL in 2024
+F score –UTCL in 2024
+F Score -Profitability For UTCL in 2023
+F Score –Liquidity, Leverage & source of funding For UTCL in 2023
+F Score –Operating Efficiency of UTCL in 2023
+F score –UTCL in 2023
+F Score of UTCL – 2025,2024 vs 2023
+Beneish M Score  UTCL -2025
+1.What is the DSRI for UTCL in 2025?
+2. What is the GMI for UTCL in 2025?
+3. What is the AQI for UTCL in 2025 ?(PPE= Tangible assets + Capital WIP)
+4. What is Sales Growth Index ( SGI) for UTCL in 2025?
+5. What is the Depreciation Index ( DEPI) for UTCL in 2025 ?( PPE here = Tang.assets + Intang.assets)
+6. What is the SGA expense Index (  SGAI) for UTCL in 2025?
+7.What is the Leverage Index ( LVGI) for  UTCL in 2025?
+8. What is the Total Accruals to Total Assets (TATA) for UTCL in 2025?
+Figures for UTCL & Inferences in 2025
+M score for UTCL in 2025
+Inference in 2025
+Beneish M Score  UTCL -2024
+1.What is the DSRI for UTCL in 2024?
+2. What is the GMI for UTCL in 2024?
+3. What is the AQI for UTCL in 2024 ?(PPE= Tangible assets + Capital WIP)
+4. What is Sales Growth Index ( SGI) for UTCL in 2024?
+5. What is the Depreciation Index ( DEPI) for UTCL in 2024 ?( PPE here = Tang.assets + Intang.assets)
+6. What is the SGA expense Index (  SGAI) for UTCL in 2024?
+7.What is the Leverage Index ( LVGI) for  UTCL in 2024?
+8. What is the Total Accruals to Total Assets (TATA) for UTCL in 2024?
+Figures for UTCL & Inferences in 2024
+M score for UTCL in 2024
+Inference in 2024
+Beneish M Score  UTCL -2023
+1.What is the DSRI for UTCL in 2023?
+2. What is the GMI for UTCL in 2023?
+3. What is the AQ for UTCL in 2023?(PPE= Tangible assets + Capital WIP)
+4. What is Sales Growth Index ( SGI) for UTCL in 2023?
+5. What is the Depreciation Index ( DEPI) for UTCL in 2023?( PPE here = Tang.assets + Intang.assets)
+6. What is the SGA expense Index (  SGAI) for UTCL in 2023?
+7.What is the Leverage Index ( LVGI) for  UTCL in 2023?
+8. What is the Total Accruals to Total Assets (TATA) for UTCL in 2023?
+Figures for UTCL & Inferences in 2023
+M score for UTCL in 2023
+Inference
+Benford Analysis- UTCLManipulative -2025,2024 & 2023
+Benford Analysis- UTCLManipulative -2024,2023 & 2022
+Benford Analysis- UTCLManipulative – 2023,2022 &2021
+Ultra Tech Cements Ltd  (UTCL)
+DPR of UTCL for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then per share ratios )
+ROE of UTCL  for the last 5 years & its Average ( Moneycontrol.com; refer Financials, then Ratios and then Return ratios )
+What is the fundamental growth rate for UTCL?
+Fundamental growth rate of UTCL
+Assumptions
+PE for UTCL ( 2 stage model)
+Let us have revised assumptions- UTCL
+Three Stage Model of Growth-PE
+INFOSYS ( is a 3 stage candidate)
+Assumptions in the computation of Fundamental PE for Infosys
+Infosys- High Growth PE ???
+Infosys- High Growth PE
+Infosys : Year 6 PE =???
+Infosys : Year 6 PE
+Infosys : Year 7 PE =???
+Infosys : Year 7 PE
+Infosys : Year 8 PE =???
+Infosys : Year 8 PE
+Infosys : Year 9 PE =???
+Infosys : Year 9 PE
+Infosys : Year 10 PE =???
+Infosys : Year 10 PE
+Infosys : Year 6-10 PE
+Infosys : Stable Phase PE
+Infosys : Total PE
+What can We Do?
+Infosys : Year 11 PE =???
+Infosys : Year 11 PE
+Infosys : Year 12 PE =???
+Infosys : Year 12 PE
+Infosys : Year 13 PE =???
+Infosys : Year 13 PE
+Infosys : Year 14 PE =???
+Infosys : Year 14 PE
+Infosys : Year 15 PE =???
+Infosys : Year 15 PE
+Infosys : Year 11-15 PE
+FALPGDF 24-26
+For Discussion in  session 10
+What is the flaw in the assumptions?
+Revised Assumptions in the computation of Fundamental PE for Infosys
+Infosys : Year 16 PE =???
+Infosys : Year 16 PE
+Infosys : Year 17 PE =???
+Infosys : Year 17 PE
+Infosys : Year 18 PE =???
+Infosys : Year 18 PE
+Infosys : Year 19 PE =???
+Infosys : Year 19 PE
+Infosys : Year 20 PE =???
+Infosys : Year 20 PE
+Infosys : Year 16-20 PE
+PE on Comparable Firms Approach
+Sample Firm : TCS
+S 1: Comparable firms of TCS based on Market Cap(24 December 2025)
+S 2: Fundamental Variables for TCS and its peers
+S3 : Run the Regression  ( Exclude data for TCS)
+Step 4: Output of Regression (TCS)
+S5 :Predicted PE for TCS
+Output of Regression (Infosys )
+Predicted PE for Infosys
+Output of Regression ( Persistent  )
+Predicted PE for Persistent
+PEG Ratio
+PEG ratio
+PEG & Fundamentals
+PEG for a hypothetical firm using 2 stage growth model
+Assumptions- Hypothetical Firm
+PEG for a hypo firm using 2 stage growth model ( when g hg=9%)
+What happens to PEG when we increase g of HG phase  from 9 % to 12% by increasing ROE from 15% to 20% in HG phase
+Assumptions- Hypo Firm
+PEG for a hypo firm using 2 stage growth model ( when g hg=12%)
+Comparison of PEG at HG phase g of 9% & 12%
+What happens to PEG when g of HG Phase  =15 % ? by increasing ROE from 20% to 25% in HG phase
+PEG for a hypo firm using 2 stage growth model ( when g hg=15%)
+Comparison of PEG at HG phase g of 9%, 12 % & 15%
+What happens to PEG when g of HG phase  =20 % ? By increasing ROE from 25% to 33.33%
+PEG for a hypo firm using 2 stage growth model ( when g hg=20%)
+Comparison of PEG at HG phase g of 9% , 12%, 15 % & 20 %
+What happens to PEG when we decrease g of HG Phase from 9 % to 7 %? By decreasing ROE from 15% to 11.67%
+PEG for a hypo firm using 2 stage growth model ( when g hg=7%)
+Summary on PEG of Hypo firm
+For Discussion in  session 11
+PEGY ratio
+Dividend Yield for TCS & its’ Peers
+PEGY of TCS & its Peers
+PERG Ratio
+PE, PEG & PERG of HCL Tech
+PB Ratio for a firm in stable phase of growth Let us Consider
+PB Ratio for SBI
+PB Ratio for SBI- Base Case
+PB Ratio for a High Growth firm
+If we Assume SBI as a 2 stage growth firm
+PB ratio for SBI as a 2- stage firm – HG PB
+PB ratio for SBI as a 2 -stage firm               – Stable Phase PB
+PB of SBI – as a  2 –stage firm
+PB Ratio for MRF Ltd (consolidated financials)
+PB Ratio for MRF???
+High Growth Phase PB Ratio for MRF
+PB Ratio for MRF
+Three Stage Model of Growth-PB
+TVS Motor Company Limited
+TVS Motor Company Ltd ( is a 3 -stage candidate)
+Assumptions in the computation of Fundamental PB for TVS Motor Company Ltd
+TVS Motor Company Ltd -High Growth PB ???
+TVS Motor Company Ltd -High Growth PB
+TVS Motor Company Ltd : Year 16 PB =???
+TVS Motor Company Ltd-Year 16 PB
+TVS Motor Company Ltd : Year 17 PB =???
+TVS Motor Company Ltd : Year 18 PB =???
+TVS Motor Company Ltd-Year 18 PB
+TVS Motor Company Ltd : Year 19 PB =???
+TVS Motor Company Ltd-Year 19 PB
+TVS Motor Company Ltd : Year 20 PB =???
+TVS Motor Company Ltd-Year 20 PB
+TVS Motor Company Ltd-Year 16-20 PB
+TVS Motor Company Ltd- : Stable Phase PB
+TVS Motor Company Ltd- : Total PB
+Mismatches in the relation b/w PB Ratio & ROE
+Price to Sales Ratio for a Stable Firm
+Let us take Ashok Leyland
+PS Ratio for Ashok Leyland Ltd
+PS Ratio of Ashok Leyland
+What to do ?
+PS Ratio for a Two Stage Firm ( High Growth firm)
+Revised PS Ratio for Ashok Leyland Ltd
+Revised PS Ratio for Ashok Leyland Ltd in HG Phase
+PS Ratio of NALCO ( 30 Dec 2025)
+PS Ratio of NALCO in hg Phase
+PS Ratio of NALCO –St. Phase
+PS Ratio of  NALCO
+Revised PS Ratio of NALCO ( 30 Dec 2025)
+Revised PS Ratio of NALCO in hg Phase
+Revised PS Ratio of NALCO –St. Phase
+Revised PS Ratio of  NALCO
+PS Ratio for a 3-stage firm
+PS Ratio for TCS ( 30 Dec 2025)
+Assumptions in the computation of Fundamental PS for TCS-Trans.phase
+PS Ratio for TCS in hg Phase (3 stage model)
+TCS: Year 21 PS
+TCS : Year 22 PS
+TCS : Year 23 PS
+TCS : Year 24 PS
+TCS : Year 25 PS
+TCS: Year 21-25 PS
+TCS : Stable Phase PS
+TCS : Total PS & Value
+What Can be done????
+Revised Assumptions in the computation of Fundamental PS for TCS-Trans.phase
+Revised PS Ratio for TCS in hg Phase (3 stage model)
+TCS: Revised Year 11 PS
+TCS : Revised Year 12 PS
+TCS : Revised Year 13 PS
+TCS : Revised Year 14 PS
+TCS : Revised Year 15 PS
+TCS: Revised Year 11-15 PS
+TCS : Revised Stable Phase PS
+TCS : Revised Total PS & Value
+EV/EBITDA multiple
+Suitability of EV/EBITDA multiple
+Determinants of EV/EBITDA
+EV/ EBITDA for PGDF (24-26) Ltd
+EV/ EBITDA for  PGDF (24-26) Ltd
+EV/EBITDA for a Stable firm
+Let us consider HUL
+Five Year Average ROC for HUL
+Reinvestment Amount – HUL  (in Rs cr)
+Reinvestment Rate- HUL (amount in Rs cr)
+Inputs for EV/EBITDA for HUL
+FCFF/EBITDA - HUL
+WACC for HUL
+EV/EBITDA for HUL- 1 January 2026
+EV/EBITDA for a 2 stage firm
+Let us consider
+Five Year Average ROC for Hero Motocorp
+Reinvestment Amount – Hero Motocorp  (in Rs cr)
+Reinvestment Rate- Hero Motocorp (amount in Rs cr)
+Inputs for EV/EBITDA for Hero Motocorp
+EV/EBITDA for the high growth phase
+FCFF/EBITDA – Hero Motocorp
+WACC for Hero Motocorp as on 1 January 2026
+EV/EBITDA for the high growth phase- Hero Motocorp
+EV/EBITDA Hero Motocorp – High growth phase
+EV/EBITDA for Stable Phase
+EV/EBITDA for Hero Motocorp  ON 1 January 2026
+EV/EBITDA of a 3-stage firm
+Let us consider Adani Ports and Special Economic Zone Ltd
+Five Year Average ROC for Adani Ports
+Delta Capex in the past 5 years (Amount in INR Crores) – Adani Ports
+Reinvestment Amount –(Adani Ports ) (in Rs cr) (Consolidated B/S)
+Reinvestment Rate- (Adani Ports) (amount in Rs cr)
+Inputs for EV/EBITDA for  Adani Ports
+FCFF/EBITDA – Adani Ports
+WACC for Adani Ports  ( on 2 January 2026)
+What to do ???
+Assumptions in the computation of EV/EBITDA for Adani Ports- 3 stage model
+EV/EBITDA Adani Ports – High growth phase
+Transition Phase EV/EBITDA for Adani Ports
+Adani Ports : Year 11 EV/EBITDA
+Adani Ports : Year 12 EV/EBITDA
+Adani Ports : Year 13 EV/EBITDA
+Adani Ports : Year 14 EV/EBITDA
+Adani Ports : Year 15 EV/EBITDA
+Adani Ports -EV/EBITDA Transition Phase
+Adani Ports : Stable Phase EV/EBITDA
+EV/EBITDA for Adani Ports ON 2 January 2026
+Sensitivity for
+Other EV multiples
+Need to do excel for EV/EBITDA stable/2 stage/ 3 stage
